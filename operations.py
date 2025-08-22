@@ -40,8 +40,9 @@ if __name__ == "__main__":
     #salida7 = divide(10,0)
     salida8 = divide(3,2)
     salida9 = power(5,3)
+    salida10 = power(1,1)
 
-    print(salida9)
+    print(salida10)
 
     print("end test")
 

@@ -37,9 +37,11 @@ if __name__ == "__main__":
     salida4 = subtract(10,4)
     salida5 = multiply('a',3)
     salida6 = multiply(8,9)
-    salida7 = divide(10,0)
+    #salida7 = divide(10,0)
+    salida8 = divide(3,2)
+    salida9 = power(5,3)
 
-    print(salida6)
+    print(salida9)
 
     print("end test")
 

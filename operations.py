@@ -46,10 +46,13 @@ if __name__ == "__main__":
 
     list1 = [3,5,2,5,2]
     salida13 = average(list1)
-    salida14 = average(5)
+    #salida14 = average(5)
+
+    list2 = [9,5,7,9,3,4,6]
+    salida15 = maximum(list2)
 
 
-    print(salida13)
+    print(salida15)
 
     print("end test")
 

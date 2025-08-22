@@ -31,5 +31,15 @@ if __name__ == "__main__":
 
     print("holaa")
 
+    salida1 = add(4,6)
+    salida2 = add(-7,-2)
+    salida3 = subtract(-8,9)
+    salida4 = subtract(10,4)
+    salida5 = multiply('a',3)
+    salida6 = multiply(8,9)
+    salida7 = divide(10,0)
+
+    print(salida6)
+
     print("end test")
 

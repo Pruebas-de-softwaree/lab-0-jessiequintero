@@ -41,8 +41,10 @@ if __name__ == "__main__":
     salida8 = divide(3,2)
     salida9 = power(5,3)
     salida10 = power(1,1)
+    salida11 = square_root(9)
+    salida12 = square_root(-1)
 
-    print(salida10)
+    print(salida11)
 
     print("end test")
 

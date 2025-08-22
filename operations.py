@@ -42,9 +42,14 @@ if __name__ == "__main__":
     salida9 = power(5,3)
     salida10 = power(1,1)
     salida11 = square_root(9)
-    salida12 = square_root(-1)
+    #salida12 = square_root(-1)
 
-    print(salida11)
+    list1 = [3,5,2,5,2]
+    salida13 = average(list1)
+    salida14 = average(5)
+
+
+    print(salida13)
 
     print("end test")
 

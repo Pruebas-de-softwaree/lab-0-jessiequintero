@@ -51,8 +51,9 @@ if __name__ == "__main__":
     list2 = [9,5,7,9,3,4,6]
     salida15 = maximum(list2)
 
+    salida16 = maximum(9)
 
-    print(salida15)
+    print(salida16)
 
     print("end test")
 
